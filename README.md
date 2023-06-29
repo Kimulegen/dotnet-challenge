@@ -1,12 +1,12 @@
-# Module 01
+# 01
 
-# Module 02
+# 02
 
-# Module 03
+# 03
 
-# Module 04
+# 04
 
-# Module 05: Create a web API with ASP.NET Core controllers
-## Create a web API project
-## Add a data store
-## Implement CRUD operations
+# 05_Create a web API with ASP.NET Core controllers
+Create a web API project
+Add a data store
+Implement CRUD operations
