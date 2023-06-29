@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "nwOGk9SG6IH4ga2b4gyCRMeLUx3+xFi/VVyUeNpJOFnrfZI4xLcsRhZ7qoS1v9lKZ25mrDCrMHGvsTvveuDamA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aframuz\\Code\\dotNET-Challenge\\Module-05\\AfraPizza\\AfraPizza.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aframuz\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Aframuz\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Aframuz\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\Aframuz\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Aframuz\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Aframuz\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
