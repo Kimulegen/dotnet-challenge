@@ -1,0 +1,7 @@
+C:\Users\Aframuz\Code\dotNET-Challenge\Module-06\AframuzSkiHouse\AframuzSkiHouse\obj\Release\net6.0\PubTmp\Out\AframuzSkiHouse.exe
+C:\Users\Aframuz\Code\dotNET-Challenge\Module-06\AframuzSkiHouse\AframuzSkiHouse\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Aframuz\Code\dotNET-Challenge\Module-06\AframuzSkiHouse\AframuzSkiHouse\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Aframuz\Code\dotNET-Challenge\Module-06\AframuzSkiHouse\AframuzSkiHouse\obj\Release\net6.0\PubTmp\Out\AframuzSkiHouse.dll
+C:\Users\Aframuz\Code\dotNET-Challenge\Module-06\AframuzSkiHouse\AframuzSkiHouse\obj\Release\net6.0\PubTmp\Out\AframuzSkiHouse.deps.json
+C:\Users\Aframuz\Code\dotNET-Challenge\Module-06\AframuzSkiHouse\AframuzSkiHouse\obj\Release\net6.0\PubTmp\Out\AframuzSkiHouse.runtimeconfig.json
+C:\Users\Aframuz\Code\dotNET-Challenge\Module-06\AframuzSkiHouse\AframuzSkiHouse\obj\Release\net6.0\PubTmp\Out\AframuzSkiHouse.pdb
